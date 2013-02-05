@@ -1,8 +1,8 @@
 # Git Workflows by [Yan Pritzker](http://yanpritzker.com)
 
-## Why use git?
+## Por que usar Git?
 
-Git is an extremely powerful source control system. Its power lies in its speed and flexibility, but this can also be a point of confusion for many new users. Git is unfortunately quite inconsistent in its syntax, and exposes many of its not-so-friendly internals to the outside world, sometimes to the detriment of usability.
+Git é uma poderosa ferramenta de controle de versão de código. Its power lies in its speed and flexibility, but this can also be a point of confusion for many new users. Git is unfortunately quite inconsistent in its syntax, and exposes many of its not-so-friendly internals to the outside world, sometimes to the detriment of usability.
 
 As many systems built by hardcore engineers (Git came from Linux kernel hackers), if wielded by a wizard, it can be used to achieve many great things, but can be initially confusing even for seasoned developers. This book bypasses the ugly internals of git and gets to the heart of improving your development workflows by using git.
 
