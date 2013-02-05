@@ -1,8 +1,10 @@
-# Git Workflows by [Yan Pritzker](http://yanpritzker.com)
+# [Git Workflows](http://documentup.com/skwp/git-workflows-book) by [Yan Pritzker](http://yanpritzker.com)
+
+em trandução por [Rodrigo G. M. Catto](http://iskigow.tumblr.com).
 
 ## Por que usar Git?
 
-Git é uma poderosa ferramenta de controle de versão de código. Its power lies in its speed and flexibility, but this can also be a point of confusion for many new users. Git is unfortunately quite inconsistent in its syntax, and exposes many of its not-so-friendly internals to the outside world, sometimes to the detriment of usability.
+Git é uma poderosa ferramenta de controle de versão de código. Seu poder vem de sua velocidade e flexibilidade, but this can also be a point of confusion for many new users. Git is unfortunately quite inconsistent in its syntax, and exposes many of its not-so-friendly internals to the outside world, sometimes to the detriment of usability.
 
 As many systems built by hardcore engineers (Git came from Linux kernel hackers), if wielded by a wizard, it can be used to achieve many great things, but can be initially confusing even for seasoned developers. This book bypasses the ugly internals of git and gets to the heart of improving your development workflows by using git.
 
@@ -961,4 +963,4 @@ Once you have transitioned a handful of people to git, let them too become exper
 top of svn. At this point, you can simply point this out, and lead the political transformation to pure git development. Github alleviates many concerns of having centralized repositories,
 so whip out your credit card, get an account for a few bucks a month, and have at it. Good luck!
 
-Copyright 2011, [Yan Pritzker](http://yanpritzker.com). All Rights Reserved.
+Copyright 2011, [Yan Pritzker](http://yanpritzker.com). em trandução por [Rodrigo G. M. Catto](http://iskigow.tumblr.com). All Rights Reserved.
