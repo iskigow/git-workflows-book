@@ -12,7 +12,7 @@ Se você pegou este livro pra ler, é porque você já está convencido de que G
 
 ### Produtividade off-line, velocidade e multitarefa
 
-Git encourages multitasking and experimentation. Fast and easy local branching means the ability to keep bugs and features you're working on in different workspaces, and to experiment more with throwaway branches. Having everything local means you can have fast diffs and history logs, and commit to your repo while on the go without being online.
+Git encoraja a multitarefa e a experimentação. Fast and easy local branching means the ability to keep bugs and features you're working on in different workspaces, and to experiment more with throwaway branches. Having everything local means you can have fast diffs and history logs, and commit to your repo while on the go without being online.
 
 ### Remote collaboration and code review
 
