@@ -14,21 +14,23 @@ Se você pegou este livro pra ler, é porque você já está convencido de que G
 
 Git encoraja a multitarefa e a experimentação. Fast and easy local branching means the ability to keep bugs and features you're working on in different workspaces, and to experiment more with throwaway branches. Having everything local means you can have fast diffs and history logs, and commit to your repo while on the go without being online.
 
-### Remote collaboration and code review
+### Colaboração remota e revisão de código
 
-The ability to pull down other people's changesets for code review and collaboration is made easy with git's multiple remotes capability. Being able to create cheap local branches and experiment with integrating other developer's changesets makes it ideal for open source projects and outsourced collaboration with junior developers, where you want to review other people's code before it becomes part of the master branch. And because anyone who has access to a repo can clone it, they can do development on a fork without asking for your approval, which also encourages experimentation.
+A capacidade de obter as alterações de outras pessoas para revisão e colaboração fica fácil com a capacidade de controlar múltiplos repositórios remotos.
+Ser capaz de criar _branches_ locais sem muito custo e experimentar/integrar as alterações de outros desenvolvedores o torna ideal para os projetos de código aberto (_open source_) e terceirizar colaboração com desenvolvedores novatos, onde deseja-se rever o código da outra pessoa antes de integrar com a _branch_ principal (_master_).
+E porque qualquer um que tenha acesso ao repositório para cloná-lo, pode desenvolver em um _fork_, sem pedir o consentimento, o que encoraja a experimentação.
 
 ### Changeset cleanliness
 
 How many times have you tried to trace down a feature across many commits, or even worse, tease apart changesets that are clusters of unrelated features? Git offers multiple ways to keep changesets clean, from the index/staging area, to topic branches, to amending commits and completely rewriting your commit history. It's amazing what clean changesets can do to save you time in code review and release management.
 
-### How is this book different from other git books?
+### Qual a diferença desse livro para os outros livros de Git?
 
-Many git books explain git from the bottom up, starting with its internals.
-Although git sometimes has many ways of doing the same thing, this book will
-ignore some of the more obscure or advanced features of git in favor of using a
-basic set of tools to get things done. It's an opinionated book, offering you
-my own view on how things should be done based on my experiences with git.
+Muitos livros explicam Git em um formato _bottom up_, começando pelas "its internals".
+Embora há algumas maneiras de fazer a mesma coisa no Git, este livro vai ignorar
+ignorar algumas das característica mais confusas ou avançadas do Git em favor de
+usar o básico para realizar as tarefas. Este é um livro de opinião, oferecendo a você 
+o ponto de vista, do autor, sobre como as coisas devem ser feitas com base na experiência com Git.
 
 Many newcomers to git make the mistake of not taking the time to understand what git does, treating git like their old centralized source control system, and getting frustrated by the number of commands they have to remember to work with new concepts like the index (staging area), their local repo, and remote repos.
 
